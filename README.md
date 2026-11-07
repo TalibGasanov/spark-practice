@@ -6,7 +6,6 @@ A hands-on project for learning Apache Spark through practical exercises. The no
 
 - [`spark-developer/`](./spark-developer/) — Spark exercise notebooks and study materials.
 - [`sample-data/northwind/`](./sample-data/northwind/) — CSV files used in data exercises.
-- [`private/`](./private/) — local/private materials; this folder is excluded from Git.
 
 ## Getting started
 
